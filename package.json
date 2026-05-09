@@ -1,0 +1,11 @@
+{
+  "name": "po4-night-golf",
+  "version": "1.0.0",
+  "description": "Po⁴ 야간 골프 나노 코팅 솔루션 - 사업계획서 웹페이지",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {}
+}
